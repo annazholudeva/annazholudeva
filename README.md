@@ -1,6 +1,6 @@
 ## Hi there, I'm novice python developer 👋
 
-📫 How to reach me: https://t.me/annazholudeva
+#📫 How to reach me: https://t.me/annazholudeva
 
 <!--
 **annazholudeva/annazholudeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
